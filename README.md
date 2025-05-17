@@ -2,7 +2,7 @@
 Parkour template for UnrealEngine 5
 
 Developed with 5.4. Animations kindly provided by VoxelVision (Thank you!) 
-Blueprints only, organized code with features like sliding, vaulting and egde climbing. (Only contains sliding code, by now)
+Blueprints only, structured and commented code with features like sliding, vaulting and egde climbing. (Only contains sliding code, by now)
 
 
 
